@@ -1,0 +1,17 @@
+.skills{
+    /* margin: 10px; */
+    padding: 5px;
+}
+.skills p{
+    margin-top: 10px;
+}
+.skills hr{
+    margin-top: 10px;
+    border: 2px solid gray;
+}
+.skills ul li{
+    margin-left: 2.5rem;
+}
+.skills ul{
+    margin-top: 10px;
+}

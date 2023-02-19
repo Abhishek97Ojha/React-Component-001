@@ -1,0 +1,17 @@
+.heading{
+    /* margin: 10px; */
+    padding: 5px;
+}
+.heading p{
+    margin-top: 10px;
+}
+.heading div {
+    margin-top: 5px;
+}
+.heading hr{
+    margin-top: 10px;
+    border: 2px solid gray;
+}
+.heading a{
+    color: blue;
+}

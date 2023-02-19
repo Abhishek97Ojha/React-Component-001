@@ -1,0 +1,17 @@
+.hobbies{
+    /* margin: 10px; */
+    padding: 5px;
+}
+.hobbies p{
+    margin-top: 10px;
+}
+.hobbies hr{
+    margin-top: 10px;
+    border: 2px solid gray;
+}
+.hobbies ol li{
+    margin-left: 2.5rem;
+}
+.hobbies ol{
+    margin-top: 10px;
+}

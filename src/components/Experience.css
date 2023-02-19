@@ -1,0 +1,14 @@
+.experience{
+    /* margin: 10px; */
+    padding: 5px;
+}
+.experience p{
+    margin-top: 10px;
+}
+.experience hr{
+    margin-top: 10px;
+    border: 2px solid gray;
+}
+.experience h3{
+    margin-top: 10px;
+}
